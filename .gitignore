@@ -1,0 +1,6 @@
+# i didn't create these assets
+assets/**/*
+
+# misc
+*.log
+.DS_Store
